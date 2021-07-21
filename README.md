@@ -4,9 +4,9 @@ A set of custom xcode templates
 
 **Table of Contents**
 
-[TOCM]
-
-[TOC]
+- [Xcode Templates](#xcode-templates)
+  * [Steps to install](#steps-to-install)
+  * [Templates available](#templates-available)
 
 ## Steps to install
 1. Go to:
@@ -23,7 +23,7 @@ mkdir Custom\ Templates
 
 ## Templates available
 
-###[MVVM Controller](https://github.com/GabrielaMejia/XCodeTemplates/Templates/MVVM Controller "MVVM Controller")
+###[MVVM Controller](https://github.com/GabrielaMejia/XCodeTemplates/tree/master/Templates/MVVM%20Controller.xctemplate)
  -------------
  View controller view model based files:
  
