@@ -3,10 +3,11 @@
 A set of custom xcode templates
 
 **Table of Contents**
-
-- [Xcode Templates](#xcode-templates)
-  * [Steps to install](#steps-to-install)
-  * [Templates available](#templates-available)
+<!--ts-->
+   * [Steps to install](#steps-to-install)
+   * [Templates available](#templates-available)
+      * [MVVM Controller](#mvvm-controller)
+<!--te-->
 
 ## Steps to install
 1. Go to:
@@ -23,13 +24,14 @@ mkdir Custom\ Templates
 
 ## Templates available
 
-###[MVVM Controller](https://github.com/GabrielaMejia/XCodeTemplates/tree/master/Templates/MVVM%20Controller.xctemplate)
+### MVVM Controller
  -------------
  View controller view model based files:
+ Link: [MVVM Controller](https://github.com/GabrielaMejia/XCodeTemplates/tree/master/Templates/MVVM%20Controller.xctemplate)
  
-Files: 
-+ FileViewController
-+ FileViewControllerViewModel
-+ FileViewControllerDelegate
+ Files: 
+ + FileViewController
+ + FileViewControllerViewModel
+ + FileViewControllerDelegate
 
-Where ***File*** its the name for the controller
+ Where ***File*** its the name for the controller
